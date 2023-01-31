@@ -2,4 +2,4 @@
 
 
 ## Game Demo
-[!Pig Game](https://youtu.be/oAf7VGhklFk)
+![Pig Game](https://youtu.be/oAf7VGhklFk)
